@@ -38,7 +38,7 @@ body {
     overflow:scroll;
 }
 
-.fl-demo {
+.fl-demo p {
     width: 50%;
     float: left;
 }
@@ -47,4 +47,16 @@ body {
     content: "";
     display: block;
     clear: both;
+}
+
+.stage {
+    background-color:darkgoldenrod;
+    width: 500px;
+    height: 400px;
+}
+
+.prop {
+    background-color:cadetblue;
+    width: 100px;
+    height: 100px;
 }
